@@ -44,5 +44,23 @@ Interactive plots showcasing average ratings, votes per title, and other metrics
 - Customizable **toggle options** to explore map views:  
    - 📍 Titles.  
    - 📊 Ratings.  
-   - 🗳️ Votes.  
-![Netflix Dashboard]("C:\Users\nikhi\OneDrive\Desktop\Power BI Mini Project\End to End\screenshot.png")
+   - 🗳️ Votes.
+      
+![Netflix-Dashboard](https://github.com/Nikhi001/Netflix-Dashboard/blob/main/screenshot.png)
+
+### 📊 **Insights Provided**
+
+- 🌍 **Top Countries**: Spain, France, and the US dominate in the number of titles and votes.  
+- 🎭 **Genres**: Action, Drama, and Thriller genres feature the most titles.  
+- 🧑‍💻 **User Behavior**: Analysis of ratings and votes provides valuable insights into user preferences across different genres.  
+- 📈 **Trends**: Distribution by rating groups highlights the quality and popularity of Netflix content.  
+
+---
+
+### 🛠️ **How to Use the Dashboard**
+🔍 Filters: Use slicers to filter the dashboard by Movies, TV Shows, or by specific metrics.
+📊 Visual Exploration: Explore and interact with bar charts, tables, and map visuals to detect patterns.
+💬 Tooltips: Hover on visuals for more details and deeper insights.
+
+### **Conclusion**
+This Power BI dashboard provides a clear and interactive analysis of Netflix content, empowering stakeholders to make data-driven decisions regarding content performance, user preferences, and market trends.
