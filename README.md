@@ -58,9 +58,9 @@ Interactive plots showcasing average ratings, votes per title, and other metrics
 ---
 
 ### 🛠️ **How to Use the Dashboard**
-🔍 Filters: Use slicers to filter the dashboard by Movies, TV Shows, or by specific metrics.
-📊 Visual Exploration: Explore and interact with bar charts, tables, and map visuals to detect patterns.
-💬 Tooltips: Hover on visuals for more details and deeper insights.
+- 🔍 Filters: Use slicers to filter the dashboard by Movies, TV Shows, or by specific metrics. 
+- 📊 Visual Exploration: Explore and interact with bar charts, tables, and map visuals to detect patterns. 
+- 💬 Tooltips: Hover on visuals for more details and deeper insights.
 
 ### **Conclusion**
 This Power BI dashboard provides a clear and interactive analysis of Netflix content, empowering stakeholders to make data-driven decisions regarding content performance, user preferences, and market trends.
