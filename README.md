@@ -1,5 +1,5 @@
 # Netflix Analysis Dashboard in Power BI
-Welcome to my Power BI learning repository! 🚀  This repository documents my transformative journey in mastering Power BI, showcasing both completed projects and ongoing work. It highlights my progress in exploring the powerful capabilities of this tool to unlock data-driven insights.
+Welcome to my Power BI learning repository! This repository documents my transformative journey in mastering Power BI, showcasing both completed projects and ongoing work. It highlights my progress in exploring the powerful capabilities of this tool to unlock data-driven insights.
 
 ## Overview
 This project focuses on building an insightful Netflix Analysis Dashboard using Power BI. The interactive visuals provide a detailed analysis of Netflix Movies and TV Shows based on ratings, votes, titles, and genres.
@@ -11,7 +11,7 @@ Country-wise analysis of titles, votes, and average ratings.
 Visual representation of title distribution by genres and rating groups.
 Interactive plots showcasing average ratings, votes per title, and other metrics.
 
-# **Key Features 🚀**
+# **Key Features **
 
 ### 📊 **Summary Cards**  
 - **Total Titles, Movies, and TV Shows** with their corresponding average ratings and votes.  
@@ -38,7 +38,7 @@ Interactive plots showcasing average ratings, votes per title, and other metrics
 - A detailed list of popular movies/TV shows including:  
    - ⭐ Ratings.  
    - 🗳️ Number of votes.  
-   - 🎞️ **Movie posters** and 📖 **brief plot descriptions**.  
+   - 🎞️ **Movie posters** and **brief plot descriptions**.  
 
 ### ⚙️ **Interactive Selection Options**  
 - Customizable **toggle options** to explore map views:  
