@@ -11,7 +11,7 @@ Country-wise analysis of titles, votes, and average ratings.
 Visual representation of title distribution by genres and rating groups.
 Interactive plots showcasing average ratings, votes per title, and other metrics.
 
-# **Key Features **
+# **Key Features**
 
 ### 📊 **Summary Cards**  
 - **Total Titles, Movies, and TV Shows** with their corresponding average ratings and votes.  
