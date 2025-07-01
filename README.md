@@ -1,5 +1,5 @@
 # Netflix Analysis Dashboard in Power BI
-Welcome to my Power BI learning repository! This repository documents my transformative journey in mastering Power BI, showcasing both completed projects and ongoing work. It highlights my progress in exploring the powerful capabilities of this tool to unlock data-driven insights.
+Welcome to my Power BI repository! This repository documents my transformative journey in mastering Power BI, showcasing both completed projects and ongoing work. It highlights my progress in exploring the powerful capabilities of this tool to unlock data-driven insights.
 
 ## Overview
 This project focuses on building an insightful Netflix Analysis Dashboard using Power BI. The interactive visuals provide a detailed analysis of Netflix Movies and TV Shows based on ratings, votes, titles, and genres.
